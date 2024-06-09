@@ -1,6 +1,7 @@
 /* Center all text and use Helvetica Neue font */
 body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: thin;
     text-align: center;
 }
 
