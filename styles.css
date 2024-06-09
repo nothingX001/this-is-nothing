@@ -1,13 +1,12 @@
 /* Center all text and use Helvetica Neue font */
 body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-weight: thin;
     text-align: center;
 }
 
 /* Make headings bold */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: bold;
+    font-weight: normal;
 }
 
 /* Center images and videos */
