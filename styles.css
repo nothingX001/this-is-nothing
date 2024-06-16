@@ -11,8 +11,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-    width: 80%;
     text-align: center;
+    width: 80%;
 }
 
 /* Center images and videos */
