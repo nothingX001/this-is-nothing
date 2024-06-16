@@ -2,6 +2,7 @@
 body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-align: center;
+    max-width: 80%;
 }
 
 /* Make headings bold */
